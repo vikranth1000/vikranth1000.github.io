@@ -98,4 +98,4 @@ The data is sourced from the publicly available Formula 1 dataset. Key files inc
 
 ## Contributors
 - **[Vikranth Reddimasu]**  
-  [GitHub]([https://github.com/<your-username>](https://github.com/vikranth1000)) | [LinkedIn](https://www.linkedin.com/in/vikranthreddimasu/)
+  [GitHub](https://github.com/vikranth1000)) | [LinkedIn](https://www.linkedin.com/in/vikranthreddimasu/)
