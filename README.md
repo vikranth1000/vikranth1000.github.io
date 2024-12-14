@@ -1,7 +1,3 @@
-Here’s a detailed and structured `README.md` content for your Formula 1 data science project:
-
----
-
 # Formula 1 Data Science Project
 
 ## Overview
@@ -98,4 +94,4 @@ The data is sourced from the publicly available Formula 1 dataset. Key files inc
 
 ## Contributors
 - **Vikranth Reddimasu**  
-  [GitHub](https://github.com/vikranth1000)) | [LinkedIn](https://www.linkedin.com/in/vikranthreddimasu/)
+  [GitHub](https://github.com/vikranth1000) | [LinkedIn](https://www.linkedin.com/in/vikranthreddimasu/)
