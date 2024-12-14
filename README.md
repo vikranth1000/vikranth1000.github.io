@@ -97,5 +97,5 @@ The data is sourced from the publicly available Formula 1 dataset. Key files inc
 - Create interactive dashboards for easier exploration of results.
 
 ## Contributors
-- **[Vikranth Reddimasu]**  
+- **Vikranth Reddimasu**  
   [GitHub](https://github.com/vikranth1000)) | [LinkedIn](https://www.linkedin.com/in/vikranthreddimasu/)
